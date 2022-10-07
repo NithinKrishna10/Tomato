@@ -164,10 +164,13 @@
 #explore{
     font-size: 18px;
     font-weight: lighter;
+    line-height: 20px;
     color: black;
 }
 #explore1{
     font-size: 16px;
+    line-height: 10px;
+    margin-left: 190px;
     text-orientation: sideways-right;
     font-weight: lighter;
     
