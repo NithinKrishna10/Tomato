@@ -1,5 +1,9 @@
+.ak{
+    text-decoration: none;
+    color: white
+}
 .headmain{
-    width: 100%;
+    width: 1519px;
     height: 420px;
    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
 }
@@ -20,6 +24,7 @@
  font-size: 16px;
  color: white;
  text-align: left;
+ text-decoration: white;
  margin-right: 484px;
 }
 .head1text{
